@@ -1,2 +1,2 @@
 # neuruo2
-My first successful attempt to build some popular ML models
+This is realisation from scratch of some popular and famous machine learning models: linear regression, linear classification, decision tree, gradient boosting on decision trees and simple fully connected neural network. Realisations are in file main.py. File dataset_gen.py is used to prepare dataset for teaching models (generated dataset is always stored in file with name "data.txt"). I only used matplotlib, numpy, math and random frameworks (no tensorflow, torch, keras etc.)
